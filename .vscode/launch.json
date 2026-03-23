@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "e:/Pattern_DSA/Traversal",
-      "program": "e:/Pattern_DSA/Traversal/build/Debug/outDebug",
+      "cwd": "e:/Pattern_DSA/2.two_pointer",
+      "program": "e:/Pattern_DSA/2.two_pointer/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
